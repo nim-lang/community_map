@@ -1,1 +1,21 @@
-{}
+{
+  "ChineseCommunityOfNimLang":{
+    "position":"Beijing, China",
+    "website":"https://nim-lang-cn.org/",
+    "forum":"https://coderplanets.com/nim",
+    "GitHub":"https://github.com/nim-lang-cn",
+    "maintainer":[
+      {
+        "nickname":"ch4o5",
+        "wechat":"li_dongyun619",
+        "QQ":1150477170,
+        "email":"dongyunli619@gmail.com",
+        "blog":"https://blog.doylee.cn",
+        "GitHub":"https://github.com/DongyunLee"
+      },{
+        "nickname":"sheldon",
+        "GitHub":"https://github.com/gogolxdong"
+      }
+    ]
+  }
+}
